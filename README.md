@@ -1,5 +1,7 @@
 # 💫 About Me:
-I’m a passionate coder currently pursuing my B.Tech at the University of Kalyani.<br>I thrive on problem-solving and love tackling coding challenges.<br>Writing is another passion of mine, allowing me to express my ideas and share my experiences in the tech world.<br>I’m always eager to learn and grow, continuously exploring new technologies and techniques.<br>Excited to connect and collaborate with fellow tech enthusiasts!<br>i am lockng for a pograming job
+I’m a passionate coder currently pursuing my B.Tech at the University of Kalyani.<br>I thrive on problem-solving and love tackling coding challenges.<br>Writing is another passion of mine, allowing me to express my ideas and share my experiences in the tech world.<br>I’m always eager to learn and grow, continuously exploring new technologies and techniques.<br>Excited to connect and collaborate with fellow tech enthusiasts!<br>I am currently looking for a programming job where I can apply my skills and continue to grow.
+<br>
+I’m excited to connect and collaborate with fellow tech enthusiasts!
 
 
 ## 🌐 Socials:
